@@ -1,2 +1,3 @@
 # JobHunter
 A application for keeping tabs on job applications. Helps in tracking the status and data of numerous job applications.
+JobHunter is an all-in-one job search management application that makes it easy to keep track of your job search progress. With JobHunter, you can efficiently manage numerous job applications and keep track of their status at every stage of the interview process. The app sends you notifications of upcoming interviews, so you can always stay on top of your schedule. You can also log the status of each application, from initial submission to final decision, and receive reminders to follow up on any outstanding applications. Overall, JobHunter simplifies the job search process, allowing you to focus on finding your dream job.
